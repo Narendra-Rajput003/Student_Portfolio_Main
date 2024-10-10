@@ -24,9 +24,10 @@ const About = () => {
 
       {/* Introduction Text */}
       <div className="text-center mb-10">
-        <p className="uppercase text-lg sm:text-xl md:text-2xl text-gray-600 tracking-wider">
+        <p className="uppercase text-lg sm:text-xl md:text-2xl text-gray-700 tracking-wider">
           A Glimpse Into Who I Am
         </p>
+
       </div>
 
       {/* Main Section */}
@@ -44,14 +45,14 @@ const About = () => {
 
           {/* Text Section */}
           <div className="flex flex-col justify-center text-center md:text-left gap-6 px-4">
-            <p className="text-lg sm:text-xl md:text-2xl text-gray-700">
+            <p className="text-lg sm:text-xl md:text-2xl text-gray-800">
               Hello! I’m <span className="font-bold text-indigo-600">Jadon Narendra</span>, a dedicated Software Engineering student at{" "}
               <span className="font-bold text-indigo-600">Atmiya University</span>, set to graduate in 2025. I’m passionate about web development and specialize in creating seamless, user-centric digital experiences.
             </p>
-            <p className="text-lg sm:text-xl md:text-2xl text-gray-700">
+            <p className="text-lg sm:text-xl md:text-2xl text-gray-800">
               When I’m not immersed in coding, you’ll find me exploring new movies, indulging in video games, or experimenting with culinary creations in the kitchen.
             </p>
-            <p className="text-lg sm:text-xl md:text-2xl text-gray-700">
+            <p className="text-lg sm:text-xl md:text-2xl text-gray-800">
               My commitment to delivering high-quality work and embracing challenges with determination is what drives me. I’m always eager to learn, grow, and contribute meaningfully to every project I undertake.
             </p>
           </div>
